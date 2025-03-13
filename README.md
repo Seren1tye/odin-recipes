@@ -19,4 +19,4 @@ Managed to create a simple website with HTML and enjoyed the process. Can't wait
 
 # Website Link
 
-[Website Link](https://seren1tye.github.io/odin-recipes/)
+<a href="https://seren1tye.github.io/odin-recipes/" target="_blank">Website</a>
