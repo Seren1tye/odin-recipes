@@ -15,4 +15,8 @@ This is a repository for the first project in [The Odin's Project] (https://www.
 
 # Reflection
 
-none so far lol
+Managed to create a simple website with HTML and enjoyed the process. Can't wait for hell (CSS)
+
+# Website Link
+
+[https://github.com/Seren1tye/odin-recipes.git] (Link to the website)
