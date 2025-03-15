@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This is a repository for the first project in [The Odin's Project] (https://www.theodinproject.com/lessons/foundations-recipes) curriculum.
+This is a repository for the first project in [The Odin's Project](https://www.theodinproject.com/lessons/foundations-recipes) curriculum.
 
 # Objectives
 
@@ -19,4 +19,4 @@ Managed to create a simple website with HTML and enjoyed the process. Can't wait
 
 # Website Link
 
-<a href="https://seren1tye.github.io/odin-recipes/" target="_blank">Website</a>
+[https://seren1tye.github.io/odin-recipes/](Website)
